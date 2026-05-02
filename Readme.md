@@ -137,6 +137,56 @@ I build **AI-powered chatbots** integrated with **WhatsApp** and **Telegram** fo
 
 ---
 
+## 🧩 Featured Projects
+
+### �️ Natural-DB
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+System that converts natural language questions into SQL queries over PostgreSQL databases using Gemini as the LLM. Consumable as a REST API with an authenticated web interface. Deployable as a private microservice. *Confidential — developed for an SME retail company.*
+
+### 📦 Private RAG-in-a-Box
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+Private RAG system consumable as a REST API. Upload documents from an authenticated web interface, auto-index them, and ask questions in natural language. Responses include the exact sources used as context. Powered by Gemini, FAISS vector stores, and FastAPI on private infrastructure for maximum data security. *Confidential — developed for an SME wholesale company.*
+
+### �📱 Sales & Collections Management System
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+End-to-end solution for optimizing field sales and collections tracking. Mobile app in React Native/Expo for sales reps, Supabase + PostgreSQL backend, and Python-based reporting & sync engine. Features client management, product catalog, order creation, payment recording with receipts, real-time accounts receivable, and automated report generation. *Confidential — developed for an automotive sector company.*
+
+### 📊 a2Softway Reporting Tool
+
+![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white) ![DBisam](https://img.shields.io/badge/DBisam-003B57?style=flat-square) ![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+Custom reporting tool built with Delphi, DBisam, and Visual Basic for Applications as part of my role as consultant and technical support for the a2Softway administrative system.
+
+### 🛡️ Insurance Policy Multi-Quoter
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+Android application for multi-quoting insurance policies. Built with React Native on the frontend and integrated with an existing legacy PHP backend system.
+
+### 🧬 Multi-Objective Genetic Algorithm
+
+![Mathematics](https://img.shields.io/badge/Mathematics-FF6F00?style=flat-square) ![Optimization](https://img.shields.io/badge/Optimization-8E75B2?style=flat-square) ![Research](https://img.shields.io/badge/Research-0A66C2?style=flat-square)
+
+Application of a multi-objective genetic algorithm to the optimization of non-linear functions. The proposed technique solves non-linear multi-objective problems involving non-convex feasible regions — cases that pose additional difficulties for classical resolution methods. Undergraduate thesis presented at Universidad Nacional Abierta for the BSc in Mathematics (Numerical Analysis).
+
+🔗 [View document on Scribd](https://es.scribd.com/document/322276514/Aplicacion-de-un-Algoritmo-Genetico-Multiobjetivo-en-la-Optimizacion-de-Funciones-No-Lineales)
+
+### 🐧 Pinguino Board
+
+![Hardware](https://img.shields.io/badge/Hardware-00979D?style=flat-square&logo=arduino&logoColor=white) ![Maker](https://img.shields.io/badge/Maker-E7352C?style=flat-square&logo=espressif&logoColor=white) ![PIC](https://img.shields.io/badge/PIC_Microcontroller-A22846?style=flat-square)
+
+Construction of a Pinguino board: a low-cost, license-free platform similar to Arduino that acts as a Programmable Process Controller. A didactic resource for experimentation with microcontrollers and technological research.
+
+🔗 [View document on Scribd](https://es.scribd.com/doc/273102017/Construccion-de-Una-Placa-Pinguino)
+
+---
+
 ## 🎓 Professor & Maker — Open Hardware Educator
 
 I'm a **university professor** at the Instituto Universitario de Tecnología de los Llanos (IUTLL), where I teach courses on **Algorithms & Programming**, **Programming Paradigms**, and **Software Engineering**.
@@ -381,6 +431,56 @@ Construyo **chatbots con IA** integrados con **WhatsApp** y **Telegram** para lo
 ### 📊 Sistemas Financieros con Machine Learning
 
 **Coin Prophet** — Plataforma de predicción del mercado de criptomonedas usando redes neuronales con TensorFlow y Firebase para inferencia ML escalable en tiempo real. También soy coautor de investigaciones sobre **arquitecturas de lógica difusa para clasificación de reversiones del mercado** y **sistemas de trading adaptativos** basados en acumulación de patrones RSI.
+
+---
+
+## 🧩 Proyectos Destacados
+
+### 🗃️ Natural-DB
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+Sistema que convierte preguntas en lenguaje natural en consultas SQL sobre bases de datos PostgreSQL usando Gemini como LLM. Consumible como API REST con interfaz web autenticada. Desplegable como microservicio privado. *Proyecto confidencial desarrollado para empresa de ventas al detal del sector PYMES.*
+
+### 📦 Private RAG-in-a-Box
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+Sistema RAG privado, consumible como API REST. Permite subir documentos desde una interfaz web autenticada, indexarlos automáticamente y hacerles preguntas en lenguaje natural. Las respuestas incluyen las fuentes exactas usadas como contexto. Funciona con Gemini, almacenes vectoriales FAISS y FastAPI sobre infraestructura privada para máxima seguridad de datos. *Proyecto confidencial desarrollado para empresa de ventas al mayor del sector PYMES.*
+
+### 📱 Sistema de Gestión de Ventas y Cobranzas
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Solución integral para optimizar la gestión de ventas en campo y seguimiento de cobranzas. Aplicación móvil en React Native/Expo para vendedores, backend en Supabase con PostgreSQL y sistema de reportes y sincronización en Python. Incluye gestión de clientes, catálogo de productos, creación de pedidos, registro de pagos con comprobantes, cuentas por cobrar en tiempo real y generación automatizada de reportes. *Proyecto confidencial desarrollado para empresa del sector automotriz.*
+
+### 📊 Herramienta de Reportes a2Softway
+
+![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white) ![DBisam](https://img.shields.io/badge/DBisam-003B57?style=flat-square) ![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+Desarrollo de herramienta de elaboración de reportes personalizados usando Delphi, DBisam y Visual Basic for Applications en mi rol de consultor y personal de soporte técnico del Sistema Administrativo a2Softway.
+
+### 🛡️ Multicotizador de Pólizas de Seguros
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+Aplicación Android para cotización múltiple de pólizas de seguros. Desarrollada con React Native en el frontend, integrada con un backend PHP del sistema legado existente.
+
+### 🧬 Algoritmo Genético Multiobjetivo
+
+![Matemáticas](https://img.shields.io/badge/Matemáticas-FF6F00?style=flat-square) ![Optimización](https://img.shields.io/badge/Optimización-8E75B2?style=flat-square) ![Investigación](https://img.shields.io/badge/Investigación-0A66C2?style=flat-square)
+
+Aplicación de un Algoritmo Genético Multiobjetivo en la Optimización de Funciones No Lineales. La técnica propuesta puede resolver problemas multiobjetivo no lineales que involucran regiones factibles no-convexas, las cuales plantean dificultades adicionales usando métodos clásicos de resolución. Trabajo de Grado presentado ante la Universidad Nacional Abierta como requisito para optar al título de Licenciado en Matemáticas mención Análisis Numérico.
+
+🔗 [Ver documento en Scribd](https://es.scribd.com/document/322276514/Aplicacion-de-un-Algoritmo-Genetico-Multiobjetivo-en-la-Optimizacion-de-Funciones-No-Lineales)
+
+### 🐧 Placa Pingüino
+
+![Hardware](https://img.shields.io/badge/Hardware-00979D?style=flat-square&logo=arduino&logoColor=white) ![Maker](https://img.shields.io/badge/Maker-E7352C?style=flat-square&logo=espressif&logoColor=white) ![PIC](https://img.shields.io/badge/PIC_Microcontroller-A22846?style=flat-square)
+
+Construcción de una placa Pingüino: plataforma de bajo costo y libre de licencias, similar a Arduino, que actúa como Controlador Programable de Procesos. Recurso didáctico para experimentación con microcontroladores e investigación tecnológica.
+
+🔗 [Ver documento en Scribd](https://es.scribd.com/doc/273102017/Construccion-de-Una-Placa-Pinguino)
 
 ---
 
