@@ -139,16 +139,18 @@ I'm a **university professor** at the Instituto Universitario de Tecnología de 
 
 I'm a co-author of **10+ scientific articles** published on Zenodo, spanning topics in:
 
-| Area | Highlights |
-|------|-----------|
-| **Edge AI & Biosensing** | BAS Framework — reagent-free solid-state diagnostics with ESP32-S3 and PINN algorithms |
-| **Distributed Systems** | BCO Holistic Orchestrator — multi-node distributed architecture for physics-based edge diagnostics |
-| **Electrochemistry + AI** | Electrochemical-dielectric framework for cell triage using voltammetry & neural networks |
-| **Financial Engineering** | Fuzzy logic RSI architecture for market reversal classification; Breadcrumbs adaptive trading |
-| **Optical Characterization** | Kubelka-Munk collective cytometry for undiluted biological samples |
-| **Green Chemistry** | Bacterial pretreatment of e-waste with Bacillus subtilis for precious metal recovery |
-
-🔗 [View all publications on Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Sanchez%20Diaz%2C%20Jose%20Alfredo%22)
+| # | Title | Area | DOI |
+|---|-------|------|-----|
+| 1 | **Espectroscopía de Admitancia Biogeofísica (BAS)** — Marco unificado multimodal para soporte diagnóstico sin reactivos | Edge AI & Biosensing | [10.5281/zenodo.18908153](https://zenodo.org/doi/10.5281/zenodo.18908153) |
+| 2 | **Orquestador Central BAS (BCO) Holístico y Distribuido** — Marco multinodo para diagnósticos en el borde basados en física | Distributed Systems | [10.5281/zenodo.18932949](https://zenodo.org/doi/10.5281/zenodo.18932949) |
+| 3 | **Marco Electroquímico-Dieléctrico para Triaje Celular** — IA en el borde basada en física con ESP32-S3 | Electrochemistry + AI | [10.5281/zenodo.18859410](https://zenodo.org/doi/10.5281/zenodo.18859410) |
+| 4 | **Caracterización Óptica de Medios Biológicos Densos** — Módulo de citometría colectiva Kubelka-Munk | Optical Characterization | [10.5281/zenodo.18906728](https://zenodo.org/doi/10.5281/zenodo.18906728) |
+| 5 | **Prototipo de Sensado por Adsorción de Volátiles (VASP)** — Caracterización quimiométrica de metabolitos gaseosos | Edge Sensing | [10.5281/zenodo.18918362](https://zenodo.org/doi/10.5281/zenodo.18918362) |
+| 6 | **Monitoreo de pH sin Sensores en Sistemas Hidrometalúrgicos** — Enfoque voltamétrico basado en sobrepotencial | Electrochemistry | [10.5281/zenodo.18510255](https://zenodo.org/doi/10.5281/zenodo.18510255) |
+| 7 | **Levels: Arquitectura Difusa para Clasificación de Reversiones** — Sistema basado en lógica difusa sobre RSI | Financial Engineering | [10.5281/zenodo.16732668](https://zenodo.org/doi/10.5281/zenodo.16732668) |
+| 8 | **Sistema de Trading Basado en Breadcrumbs** — Enfoque adaptativo para optimizar entradas y salidas con RSI | Financial Engineering | [10.5281/zenodo.16716303](https://zenodo.org/doi/10.5281/zenodo.16716303) |
+| 9 | **Conversión de Efluentes de Reciclaje Electrónico** — Producción de cloruro de estaño(II) para prueba de oro | Green Chemistry | [10.5281/zenodo.16665865](https://zenodo.org/doi/10.5281/zenodo.16665865) |
+| 10 | **Pretratamiento Bacteriano de Tarjetas Electrónicas** — Uso de *Bacillus subtilis* para concentración de metales preciosos | Green Chemistry | [10.5281/zenodo.16662824](https://zenodo.org/doi/10.5281/zenodo.16662824) |
 
 ---
 
@@ -169,10 +171,9 @@ I've delivered IoT solutions for clients across **4 countries**:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ingalfsan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingalfsan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=ingalfsan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub Stats" height="170" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingalfsan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages" height="170" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ingalfsan&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ingalfsan&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 
 </div>
 
@@ -196,9 +197,14 @@ I've delivered IoT solutions for clients across **4 countries**:
 
 ### Certifications
 
-![Stanford ML](https://img.shields.io/badge/Stanford-Machine_Learning-red?style=flat-square&logo=coursera)
-![Georgia Tech UX](https://img.shields.io/badge/Georgia_Tech-UX_Design-blue?style=flat-square&logo=coursera)
-![Cisco Linux](https://img.shields.io/badge/UCV/Cisco-Linux_(80hrs)-yellow?style=flat-square&logo=linux)
+| Badge | Course | Institution | Hours |
+|-------|--------|-------------|-------|
+| ![Coursera](https://img.shields.io/badge/Coursera-red?style=flat-square&logo=coursera&logoColor=white) | **Machine Learning** | Stanford University | — |
+| ![Coursera](https://img.shields.io/badge/Coursera-blue?style=flat-square&logo=coursera&logoColor=white) | **Introduction to UX Design** | Georgia Institute of Technology | — |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | **Linux** | Universidad Central de Venezuela / Cisco | 80 hrs |
+| ![Education](https://img.shields.io/badge/Course-555?style=flat-square&logo=academia&logoColor=white) | **Sistemas de Información con Orientación a Objetos** | IUTLL | 24 hrs |
+| ![Education](https://img.shields.io/badge/Course-555?style=flat-square&logo=academia&logoColor=white) | **Metodología Cualitativa** | Universidad Simón Bolívar / IUTLL | 16 hrs |
+| ![Education](https://img.shields.io/badge/Conference-3B82F6?style=flat-square&logo=academia&logoColor=white) | **Congreso Internacional Virtual de Educación a Distancia** | Universitat de les Illes Balears | — |
 
 ---
 
