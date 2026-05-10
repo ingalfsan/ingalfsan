@@ -185,6 +185,14 @@ Construction of a Pinguino board: a low-cost, license-free platform similar to A
 
 🔗 [View document on Scribd](https://es.scribd.com/doc/273102017/Construccion-de-Una-Placa-Pinguino)
 
+### 🎮 Addition and Subtraction Game with Audio
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Hardware](https://img.shields.io/badge/Hardware-00979D?style=flat-square&logo=arduino&logoColor=white) ![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+
+Educational math game for Arduino with LCD Keyboard Shield featuring sound effects. Practice addition and subtraction operations interactively with 10 questions, 3 answer options per question, scoring system (need 7 correct to win), 16x2 LCD display with intuitive navigation, and buzzer sound effects for startup, correct/incorrect answers, and victory/defeat melodies. Free and open-source software.
+
+🔗 [View repository on GitHub](https://github.com/ingalfsan/arduino_lcd_game)
+
 ---
 
 ## 🎓 Professor & Maker — Open Hardware Educator
@@ -481,6 +489,14 @@ Aplicación de un Algoritmo Genético Multiobjetivo en la Optimización de Funci
 Construcción de una placa Pingüino: plataforma de bajo costo y libre de licencias, similar a Arduino, que actúa como Controlador Programable de Procesos. Recurso didáctico para experimentación con microcontroladores e investigación tecnológica.
 
 🔗 [Ver documento en Scribd](https://es.scribd.com/doc/273102017/Construccion-de-Una-Placa-Pinguino)
+
+### 🎮 Juego de Suma y Resta con Audio
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Hardware](https://img.shields.io/badge/Hardware-00979D?style=flat-square&logo=arduino&logoColor=white) ![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-yellow?style=flat-square)
+
+Juego educativo de matemáticas para Arduino con LCD Keyboard Shield que incluye efectos de sonido. Diseñado para practicar operaciones de suma y resta de forma interactiva con 10 preguntas, 3 opciones de respuesta por pregunta, sistema de puntuación (necesitas 7 aciertos para ganar), pantalla LCD de 16x2 caracteres con navegación intuitiva, y efectos de sonido con buzzer para melodía de inicio, acierto/error, y melodías de victoria/derrota. Software libre y de código abierto.
+
+🔗 [Ver repositorio en GitHub](https://github.com/ingalfsan/arduino_lcd_game)
 
 ---
 
