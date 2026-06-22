@@ -169,6 +169,16 @@ Custom reporting tool built with Delphi, DBisam, and Visual Basic for Applicatio
 
 Android application for multi-quoting insurance policies. Built with React Native on the frontend and integrated with an existing legacy PHP backend system.
 
+### 📡 Kalman Filter Lab
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+Kalman Filter implementation lab applied to real atmospheric CO₂ concentration data (Mauna Loa Observatory, NOAA). Implements a 1D constant-velocity model that estimates CO₂ levels and monthly rate of change as a latent variable, separating the real trend from seasonal and instrumental noise. Generates CSV reports and comparative charts of measured vs. estimated signal.
+
+The same model was integrated into **GastosApp**, a React Native/TypeScript mobile app, where it predicts the duration of upcoming power outages (Corpoelec) for the next +1, +2, and +3 days, auto-detects the trend (↑ increasing / ↓ decreasing / stable) by adjusting Q and R parameters based on historical variance, and renders a dotted-line SVG forecast on the dashboard and a prediction card in the Corpoelec section.
+
+🔗 [View repository on GitHub](https://github.com/ingalfsan/kalman)
+
 ### 🧬 Multi-Objective Genetic Algorithm
 
 ![Mathematics](https://img.shields.io/badge/Mathematics-FF6F00?style=flat-square) ![Optimization](https://img.shields.io/badge/Optimization-8E75B2?style=flat-square) ![Research](https://img.shields.io/badge/Research-0A66C2?style=flat-square)
@@ -473,6 +483,16 @@ Desarrollo de herramienta de elaboración de reportes personalizados usando Delp
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 Aplicación Android para cotización múltiple de pólizas de seguros. Desarrollada con React Native en el frontend, integrada con un backend PHP del sistema legado existente.
+
+### 📡 Kalman Filter Lab
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+Laboratorio de implementación del Filtro de Kalman aplicado a datos reales de concentración atmosférica de CO₂ (Observatorio de Mauna Loa, NOAA). Implementa un modelo de velocidad constante en 1D que estima el nivel de CO₂ y su tasa de cambio mensual como variable latente, separando la tendencia real del ruido estacional e instrumental. Genera reportes CSV y gráficos comparativos de señal medida vs. estimada.
+
+El mismo modelo fue integrado en **GastosApp**, una aplicación móvil React Native/TypeScript, donde predice la duración de los próximos racionamientos eléctricos (Corpoelec) para los próximos +1, +2 y +3 días, detecta automáticamente la tendencia (↑ aumento / ↓ descenso / estable) ajustando los parámetros Q y R según la varianza histórica, y visualiza el pronóstico con línea punteada SVG en el dashboard y una tarjeta de predicción en la sección Corpoelec de la app.
+
+🔗 [Ver repositorio en GitHub](https://github.com/ingalfsan/kalman)
 
 ### 🧬 Algoritmo Genético Multiobjetivo
 
